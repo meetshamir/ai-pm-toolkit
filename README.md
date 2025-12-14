@@ -67,8 +67,8 @@ Found a prompt that works well? Have an agent that saves you hours?
 
 I write about my AI PM journey in **"Musings of an AI PM"** — a weekly LinkedIn newsletter.
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Newsletter](https://linkedin.com/newsletters/yourlink)
+- [LinkedIn](https://www.linkedin.com/in/shamir-abdul-aziz-5a071622/)
+- [Newsletter](https://www.linkedin.com/newsletters/7406066302014070784/)
 
 ## 📄 License
 
